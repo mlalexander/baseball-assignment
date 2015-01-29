@@ -1,4 +1,4 @@
-web-app-template-simple
+baseball card assignment
 =======================
 
-A simple web app template with jQuery, and Bootstrap.  | Mizzou Workshop - Oct. 2014
+Basic stats using the web template. Sports. Teams. Yeah!
